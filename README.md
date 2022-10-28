@@ -78,7 +78,9 @@
 <div class="center">
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=yashweblife&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashweblife&hide_border=true&layout=compact&theme=dracula" align="center" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashweblife&langs_count=10&hide_border=true&layout=compact&theme=dracula" align="center" /></div>
+</div>
+<div align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashweblife&theme=dracula" align="center" /></div>
 </div>
 
 <br/>
