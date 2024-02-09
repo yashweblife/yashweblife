@@ -4,11 +4,11 @@
 
 ### <div align="center">Im Yash Giri, a full stack developer seasoned in robotics and circuits</div>
 
-- 🦾Im currently working at Witblox
+- 🦾Im currently working at The Center Of Geospatial Intelligence
 
 - 🌱I have a YouTube channel for programming
 
-- ❓I am currently learning React
+- ❓I am currently learning Machine Level Coding
 
 - ⚡ Fun fact: I have a long running project to make an 8 bit computer out of transistors.
 
