@@ -51,7 +51,7 @@
 <br/>
 
 ## Checkout My Collection
-<a href="https://yashweblife-988b9.web.app/">
+<a href="https://yashweblife.github.io/sand-art/">
 <button style="color:red;box-shadow:0 0 1em 0 rgba(0,0,0,0.5)">Fun Projects Site</button>
 </a>
 
